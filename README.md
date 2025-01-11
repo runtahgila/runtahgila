@@ -1,9 +1,9 @@
-# 🌟 Welcome to the Runtah Gila GitHub Pages Repository!
+# 🌟 Welcome to the Runtahgila GitHub Pages Repository!
 
 ![GitHub Pages Banner](https://via.placeholder.com/1200x400?text=Runtahgila+Website)
 
 ## 🚀 About This Project
-This repository hosts the **Runtah Gila** website, powered by **GitHub Pages**. It's designed as a dynamic and user-friendly platform for showcasing:
+This repository hosts the **Runtahgila** website, powered by **GitHub Pages**. It's designed as a dynamic and user-friendly platform for showcasing:
 
 - **💻 Innovative Projects**
 - **📚 Informative Content**
